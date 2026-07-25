@@ -14,6 +14,15 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usfa7med&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usfa7med&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+</p>
+
+---
+
 ## 🛠️ Technical Stack
 
 ### 🔹 Core & Architecture
