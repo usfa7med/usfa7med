@@ -50,7 +50,7 @@
 
 ## 📁 Featured Projects
 
-### 🔒 SecureS2S
+### 🔒 [SecureS2S](https://github.com/usfa7med/SecureS2S)
 > End-to-end encrypted service-to-service communication using **RSA-2048 + AES-256-GCM** hybrid cryptography over plain TCP sockets.
 
 `Security` • `Cryptography` • `Networking` • `Python`
