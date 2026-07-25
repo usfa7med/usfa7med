@@ -25,19 +25,19 @@
 
 ## 🛠️ Technical Stack
 
-### 🔹 Core & Architecture
-`Data Structures & Algorithms` • `Software Architecture & System Design` • `Object-Oriented Programming (OOP)` • `RESTful APIs & Web Architecture` • `Applied Cryptography` • `Microservices & Distributed Systems`
+### 🔹 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔹 Backend & Databases
-`Python (FastAPI)` • `PostgreSQL / Supabase` • `SQL & Relational DB Design` • `Redis / Caching Structures`
-
-### 🔹 Security & Research
-`Web Application Security` • `Vulnerability Analysis & Assessment` • `Penetration Testing Principles` • `Burp Suite & Network Diagnostics (Nmap)` • `Secure Code Review & Threat Modeling` • `Network Traffic Analysis` • `Security Automation`
-
-### 🔹 DevOps, Systems, AI & Tools
-`Linux Environment` • `Docker & Containerization` • `Git / GitHub Workflow` • `Postman / API Testing` • `CI/CD Fundamentals` • `Cloudflare Services` • `Shell Scripting & Automation` • `Machine Learning / DL`
-
----
+### 🔹 Security & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📁 Featured Project
 
