@@ -56,7 +56,7 @@
 
 ## 📬 Let's Connect
 
-* **Email:**  [hello@usfahmed.dev](mailto:Youssef Ahmed <hello@usfahmed.dev>) & [ysfa7med@gmail.com](mailto:Youssef Ahmed <ysfa7med@gmail.com>)
+* **Email:** [hello@usfahmed.dev](mailto:hello@usfahmed.dev) & [ysfa7med@gmail.com](mailto:ysfa7med@gmail.com)
 * **LinkedIn:** [linkedin.com/in/usfahmed](https://linkedin.com/in/usfahmed)
 * **GitHub:** [github.com/usfa7med](https://github.com/usfa7med)
 
