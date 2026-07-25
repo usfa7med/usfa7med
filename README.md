@@ -70,5 +70,7 @@
 * **LinkedIn:** [linkedin.com/in/usfahmed](https://linkedin.com/in/usfahmed)
 * **GitHub:** [github.com/usfa7med](https://github.com/usfa7med)
 
+![Views](https://komarev.com/ghpvc/?username=usfa7med&color=bluestyle=flat-square)
+
 ---
 *© 2026 Youssef Ahmed. All rights reserved.*
