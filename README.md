@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usfa7med&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usfa7med&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usfa7med&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
