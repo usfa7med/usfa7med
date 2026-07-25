@@ -39,6 +39,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ## 📁 Featured Project
 
 ### 🔒 [SecureS2S](https://github.com/usfa7med)
@@ -70,7 +72,9 @@
 * **LinkedIn:** [linkedin.com/in/usfahmed](https://linkedin.com/in/usfahmed)
 * **GitHub:** [github.com/usfa7med](https://github.com/usfa7med)
 
-![Views](https://komarev.com/ghpvc/?username=usfa7med&color=bluestyle=flat-square)
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=usfa7med&color=blue&style=flat-square)
 
 ---
 *© 2026 Youssef Ahmed. All rights reserved.*
