@@ -6,6 +6,7 @@
 ## 👨‍💻 About Me
 
 > **Short Bio**
+> 
 > I am a Computer Engineering student with a relentless drive for building robust, secure applications. My journey is defined by a deep curiosity for how complex systems operate and how to defend them, leading me to blend rigorous architectural design with offensive and defensive cybersecurity principles. I don't just write code; I construct engineering solutions that are resilient and efficient.
 
 * **🎯 Specialty:** Architecting scalable backend systems and secure web applications with a structure-first mindset. While syntax can be learned overnight, my real strength lies in understanding software architecture, system design, and security fundamentals. I focus on database design, secure API structures, and web application security—ensuring every system is built on a resilient, rock-solid foundation.
