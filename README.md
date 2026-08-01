@@ -53,7 +53,7 @@
 ### 🔒 [SecureS2S](https://github.com/usfa7med/SecureS2S)
 > End-to-end encrypted service-to-service communication using **RSA-2048 + AES-256-GCM** hybrid cryptography over plain TCP sockets.
 
-`Security` • `Cryptography` • `Networking` • `Python`
+`RSA` •`AES` •`Security` • `Cryptography` • `Networking` • `Python`
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 📜 Certifications (Coursera)
 
-* 🏆 [**Cryptography I**](https://coursera.org/verify/XXXXXXXXXXXX) — *Stanford University*
+* 🏆 [**Cryptography I**](https://coursera.org/verify/9YQLFFRPYF91) — *Stanford University*
 
 ---
 
