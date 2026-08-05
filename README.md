@@ -68,6 +68,11 @@
 
 * 🏆 [**Cryptography I**](https://coursera.org/verify/9YQLFFRPYF91) — *Stanford University*
 
+* 🏆 [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/P5TFCXM38JKH) — *DeepLearning.AI & Stanford University*
+  * 🎓 [Supervised Machine Learning: Regression and Classification](https://coursera.org/verify/QENQY6E8QFAZ)
+  * 🎓 [Advanced Learning Algorithms](https://coursera.org/verify/TGIFFJUKQGPW)
+  * 🎓 [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/verify/5XDFTAWRD7JC)
+
 ---
 
 ## 📬 Let's Connect
