@@ -7,7 +7,7 @@
 
 > **Short Bio**
 >
-> I am a Computer Engineering student with a relentless drive for building robust, secure applications. My journey is defined by a deep curiosity for how complex systems operate and how to defend them, leading me to blend rigorous architectural design with offensive and defensive cybersecurity principles. I don't just write code; I construct engineering solutions that are resilient and efficient.
+> I am a Computer Science and Engineering student at GUC with a relentless drive for building robust, secure applications. My journey is defined by a deep curiosity for how complex systems operate and how to defend them, leading me to blend rigorous architectural design with offensive and defensive cybersecurity principles. I don't just write code; I construct engineering solutions that are resilient and efficient.
 
 * **🎯 Specialty:** Architecting scalable backend systems and secure web applications with a structure-first mindset. My real strength lies in understanding software architecture, system design, and security fundamentals database design, secure API structures, and web application security.
 * **🚀 Goals & Interests:** Building software that's secure from day one, with security baked into architecture rather than bolted on. Actively exploring freelance/portfolio work alongside my studies.
@@ -111,7 +111,7 @@
 
 ## 🎓 Education
 
-* 🎓 **B.Sc. in Computer Engineering** | *German University in Cairo (GUC)* `(2025 - Present)`
+* 🎓 **B.Sc. in Computer Science and Engineering** | *German University in Cairo (GUC)* `(2025 - Present)`
   * Focus: computer systems architecture, algorithms, software engineering, and cybersecurity.
 
 ---
@@ -131,7 +131,7 @@
 
 ## 📬 Let's Connect
 
-* **Website:** [usfahmed.dev](https://usfahmed.dev)
+* **Portfolio:** [usfahmed.dev](https://usfahmed.dev)
 * **Email:** [hello@usfahmed.dev](mailto:hello@usfahmed.dev)
 * **LinkedIn:** [linkedin.com/in/usfahmed](https://linkedin.com/in/usfahmed)
 * **GitHub:** [github.com/usfa7med](https://github.com/usfa7med)
