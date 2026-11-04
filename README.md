@@ -116,7 +116,7 @@
 
 ---
 
-## 📜 Certifications (Coursera)
+## 📜 Certifications
 
 * 🏆 [**Ethical Hacker**](https://www.credly.com/badges/d190e77b-775c-40c4-b6c0-94aee7dfba6e) *Cisco*
 
