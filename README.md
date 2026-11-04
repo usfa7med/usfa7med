@@ -120,7 +120,7 @@
 
 * 🏆 [**Ethical Hacker**](https://www.credly.com/badges/d190e77b-775c-40c4-b6c0-94aee7dfba6e) *Cisco*
 
-* 🏆 [**Google Cybersecurity Professional**](https://www.coursera.org/account/accomplishments/specialization/25C7SYAPH1L9) *Google*
+* 🏆 [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/25C7SYAPH1L9) *Google*
 
 * 🏆 [**Cryptography I**](https://coursera.org/verify/9YQLFFRPYF91) *Stanford University*
 
